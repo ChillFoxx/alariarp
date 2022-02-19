@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: purple;
+    font-family: 'Roboto', sans-serif;
+}
+a { 
+    color: purple;
+}
+h3 a {
+    color: yellow;
+}
+.logo {
+    text-align: center;
+}
